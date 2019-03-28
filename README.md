@@ -1,6 +1,6 @@
 # Setting Up The Starter
 1. Clone this repo
-2. In your teriminal from the directory 'jsx-and-props-starter' run ```npm install```
+2. In your teriminal, from the directory 'jsx-and-props-starter' run ```npm install```
 3. In your terminal, same directory, run ```npm start```
 
 # React JSX & Props Starter
