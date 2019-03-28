@@ -1,0 +1,8 @@
+.server {
+    padding : 1em;
+    margin: 5em auto;
+    height : 10vh;
+    width : 35vw;
+    background-color : whitesmoke;
+    border-radius: 15px;
+}
